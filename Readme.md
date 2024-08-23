@@ -113,6 +113,4 @@ By following the steps in this guide, you have successfully configured AWS CLI w
 - [AWS CLI SSO Configuration Documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-sso.html)
 - [AWS EC2 CLI Commands](https://docs.aws.amazon.com/cli/latest/reference/ec2/index.html)
 - [AWS Systems Manager CLI Commands](https://docs.aws.amazon.com/cli/latest/reference/ssm/index.html)
-```
 
-You can save the above content into a `README.md` file. This file provides a comprehensive guide to configuring AWS CLI with SSO, listing EC2 instances, and starting an SSM session.
